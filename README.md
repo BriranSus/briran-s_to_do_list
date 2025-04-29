@@ -9,3 +9,8 @@ Cara menjalankan project:
 
 jika Step 3 gagal:
 Ketik "npm install"
+
+Langkah-Langkah di websitenya:
+1. Tekan text boxnya lalu ketik nama aktivitas
+2. Tekan enter atau tekan tombol "Go" di samping kanan
+3. Box aktivitas bisa di edit, delete, atau di "mark as done" dengan 3 tombol yang ada di samping kanan box.
