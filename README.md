@@ -6,7 +6,6 @@ Cara menjalankan project:
 1. Install Node.JS (Jika belum ada)
 2. Create new terminal
 3. Di dalam terminal ketik "npm run dev"
-
 jika Step 3 gagal:
 Ketik "npm install"
 
